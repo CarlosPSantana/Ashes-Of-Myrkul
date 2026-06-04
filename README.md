@@ -6,6 +6,26 @@
 
 The game features exploration, combat mechanics, progression systems and a dark fantasy pixel art atmosphere inspired by classic metroidvania games.
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](docs/images/main-menu.png)
+
+### Gameplay
+![Gameplay](docs/images/gameplay.png)
+
+### Combat System
+![Combat](docs/images/combat.png)
+
+### Dialogue System
+![Dialogue](docs/images/dialogue-system.png)
+
+### Inventory System
+![Inventory](docs/images/inventory.png)
+
+### Quest System
+![Quest](docs/images/quest-system.png)
+
 
 ## ✨ Features
 
