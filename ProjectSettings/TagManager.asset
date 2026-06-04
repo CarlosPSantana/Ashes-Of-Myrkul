@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Espada
+  - item
+  - enemigo
+  - bala
+  - suelo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - suelo
+  - Water
+  - UI
+  - item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 3389078595
+    locked: 0
+  - name: decoracion
+    uniqueID: 61016431
+    locked: 0
+  - name: items
+    uniqueID: 1355532285
+    locked: 0
+  - name: suelo
+    uniqueID: 4236430855
+    locked: 0
+  - name: puerta
+    uniqueID: 2066001947
+    locked: 0
+  m_RenderingLayers:
+  - Default

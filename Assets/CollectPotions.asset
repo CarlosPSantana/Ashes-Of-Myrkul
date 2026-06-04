@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 814c96ac6dc0ae14db6196331acd0145, type: 3}
+  m_Name: CollectPotions
+  m_EditorClassIdentifier: Assembly-CSharp::Quest
+  questID: d089d03a-340a-45ef-aaf2-992a89f95465
+  questName: Ayuda a Sir Nestor
+  description: Debes recoger 3 pociones para ayudar a Sir Nestor a recuperarse.
+  objectives:
+  - objectiveID: 1
+    description: Debes recoger 3 pociones para ayudar a Sir Nestor a recuperarse.
+    type: 0
+    requiredAmount: 3
+    currentAmount: 0

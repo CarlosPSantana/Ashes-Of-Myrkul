@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd8499666b7d284a8791ca0ca4e8ee5, type: 3}
+  m_Name: KnightDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Sir Nestor
+  npcPortrait: {fileID: 2833711274697811677, guid: e704964c01c20844790da75267b8cedd, type: 3}
+  dialogueLines:
+  - "Bienaventurado  caballero,  aqu\xED  nos  encontramos  ante  el  abismo  y 
+    la  desolaci\xF3n  del  final."
+  - "Si  gozais  de  tiempo  \xBFme  podriais  echar  una  mano?"
+  - Alabada  sea  tu  bondad,  querria  que  me  trajerais  unas  pociones  ya  que 
+    durante   mi   lucha  me  he  quedado  exhausto.
+  - "Entiendo\u2026  no  todos  est\xE1n  dispuestos  a  mirar  donde  la  luz  se 
+    quiebra."
+  autoProgressLine: 01000000
+  endDialogueLines: 00000101
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: dfe76020400c93b4badc1749662f91f6, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 1
+    choices:
+    - Si
+    - No
+    nextDialogueIndexes: 0200000003000000

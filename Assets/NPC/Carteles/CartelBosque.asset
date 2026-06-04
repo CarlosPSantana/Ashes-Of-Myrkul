@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd8499666b7d284a8791ca0ca4e8ee5, type: 3}
+  m_Name: CartelBosque
+  m_EditorClassIdentifier: Assembly-CSharp::NPCDialogue
+  npcName: Sistema
+  npcPortrait: {fileID: -4734277340717966428, guid: 76f552f1a32ba0a44a56bb37463ad9db, type: 3}
+  dialogueLines:
+  - Para moverse pulsa "S" y "A" y salta con la barra espaciadora
+  - Puedes hacer un dash con la "K"
+  - "Para atacar tienes la \"J\" para hacer un ataque rapido y \"L\" para un ataque
+    a distancia que gasta energ\xEDa"
+  - Si le das al "escape" puedes acceder al inventario donde puedes mover los diferentes
+    items a la hotbar
+  - "Cuando tengas items en la hotbar los usar\xE1s con el \"1\", \"2\" y \"3\" respectivamente"
+  - "Las pociones rojas regeneran toda la vida y las pociones amarillas la energ\xEDa"
+  autoProgressLine: 00
+  endDialogueLines: 
+  autoProgressDelay: 1.5
+  typingSpeed: 0.03
+  voiceSound: {fileID: 0}
+  voicePitch: 1
+  choices: []

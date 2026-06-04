@@ -1,0 +1,5761 @@
+fileFormatVersion: 2
+guid: 76f552f1a32ba0a44a56bb37463ad9db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4775100030617542648
+    second: NEWSPRITESHEET_0
+  - first:
+      213: 1933002357615626896
+    second: NEWSPRITESHEET_1
+  - first:
+      213: -4983532631499880346
+    second: NEWSPRITESHEET_2
+  - first:
+      213: -175263257436343281
+    second: NEWSPRITESHEET_3
+  - first:
+      213: -7787876253857387323
+    second: NEWSPRITESHEET_4
+  - first:
+      213: -6428710069890625011
+    second: NEWSPRITESHEET_5
+  - first:
+      213: 565335154578581805
+    second: NEWSPRITESHEET_6
+  - first:
+      213: -6928050222621958445
+    second: NEWSPRITESHEET_7
+  - first:
+      213: -7487186854945115199
+    second: NEWSPRITESHEET_8
+  - first:
+      213: -4468021703470269461
+    second: NEWSPRITESHEET_9
+  - first:
+      213: -7764386021626973446
+    second: NEWSPRITESHEET_10
+  - first:
+      213: 6233322398384842399
+    second: NEWSPRITESHEET_11
+  - first:
+      213: -2212127862784548923
+    second: NEWSPRITESHEET_12
+  - first:
+      213: 5534333506235176584
+    second: NEWSPRITESHEET_13
+  - first:
+      213: -2848690393507204381
+    second: NEWSPRITESHEET_14
+  - first:
+      213: -2147514617093551981
+    second: NEWSPRITESHEET_15
+  - first:
+      213: -3717318506834159006
+    second: NEWSPRITESHEET_16
+  - first:
+      213: 5814921133364587471
+    second: NEWSPRITESHEET_17
+  - first:
+      213: -8613158089705103613
+    second: NEWSPRITESHEET_18
+  - first:
+      213: -396197905749701153
+    second: NEWSPRITESHEET_19
+  - first:
+      213: 4922953598098843855
+    second: NEWSPRITESHEET_20
+  - first:
+      213: -8475131095427488338
+    second: NEWSPRITESHEET_21
+  - first:
+      213: 4439775855509086282
+    second: NEWSPRITESHEET_22
+  - first:
+      213: 8024790374551511804
+    second: NEWSPRITESHEET_23
+  - first:
+      213: 1934834166321681387
+    second: NEWSPRITESHEET_24
+  - first:
+      213: -379617256838165646
+    second: NEWSPRITESHEET_25
+  - first:
+      213: -7099802232741822384
+    second: NEWSPRITESHEET_26
+  - first:
+      213: 5078790692312360219
+    second: NEWSPRITESHEET_27
+  - first:
+      213: -5305777723745568666
+    second: NEWSPRITESHEET_28
+  - first:
+      213: 2674512651215971254
+    second: NEWSPRITESHEET_29
+  - first:
+      213: -4606453882210304907
+    second: NEWSPRITESHEET_30
+  - first:
+      213: -3486753737684664472
+    second: NEWSPRITESHEET_31
+  - first:
+      213: -2949268482389504813
+    second: NEWSPRITESHEET_32
+  - first:
+      213: 4496685049856974154
+    second: NEWSPRITESHEET_33
+  - first:
+      213: -8337123531191472558
+    second: NEWSPRITESHEET_34
+  - first:
+      213: -2956571910952852359
+    second: NEWSPRITESHEET_35
+  - first:
+      213: 5997637186670346358
+    second: NEWSPRITESHEET_36
+  - first:
+      213: 4764013946162043278
+    second: NEWSPRITESHEET_37
+  - first:
+      213: 8258713295063767892
+    second: NEWSPRITESHEET_38
+  - first:
+      213: -2304607008608955707
+    second: NEWSPRITESHEET_39
+  - first:
+      213: 8021370037195314333
+    second: NEWSPRITESHEET_40
+  - first:
+      213: -7248248633679165627
+    second: NEWSPRITESHEET_41
+  - first:
+      213: -1116436358559281099
+    second: NEWSPRITESHEET_42
+  - first:
+      213: 6318375286864907492
+    second: NEWSPRITESHEET_43
+  - first:
+      213: 7239773444783251735
+    second: NEWSPRITESHEET_44
+  - first:
+      213: 1464820853700147073
+    second: NEWSPRITESHEET_45
+  - first:
+      213: -172540941523535865
+    second: NEWSPRITESHEET_46
+  - first:
+      213: 396553436951662680
+    second: NEWSPRITESHEET_47
+  - first:
+      213: -1384690759097253715
+    second: NEWSPRITESHEET_48
+  - first:
+      213: 4716689911153850329
+    second: NEWSPRITESHEET_49
+  - first:
+      213: -1984718941582654704
+    second: NEWSPRITESHEET_50
+  - first:
+      213: -4339777521109376853
+    second: NEWSPRITESHEET_51
+  - first:
+      213: 8027412221056871358
+    second: NEWSPRITESHEET_52
+  - first:
+      213: 2126682870493362766
+    second: NEWSPRITESHEET_53
+  - first:
+      213: 4729831358916982244
+    second: NEWSPRITESHEET_54
+  - first:
+      213: -4416328710307606379
+    second: NEWSPRITESHEET_55
+  - first:
+      213: 5965379182204955347
+    second: NEWSPRITESHEET_56
+  - first:
+      213: 1054028421479676679
+    second: NEWSPRITESHEET_57
+  - first:
+      213: 6334970555167321562
+    second: NEWSPRITESHEET_58
+  - first:
+      213: -3463610261715666172
+    second: NEWSPRITESHEET_59
+  - first:
+      213: -941749171856523339
+    second: NEWSPRITESHEET_60
+  - first:
+      213: -6400716138910358096
+    second: NEWSPRITESHEET_61
+  - first:
+      213: -939924611063958013
+    second: NEWSPRITESHEET_62
+  - first:
+      213: -6351014319381324469
+    second: NEWSPRITESHEET_63
+  - first:
+      213: -695502610950759355
+    second: NEWSPRITESHEET_64
+  - first:
+      213: -1914511225796547428
+    second: NEWSPRITESHEET_65
+  - first:
+      213: -203334661005567383
+    second: NEWSPRITESHEET_66
+  - first:
+      213: 825580189393843309
+    second: NEWSPRITESHEET_67
+  - first:
+      213: 1422891412310723617
+    second: NEWSPRITESHEET_68
+  - first:
+      213: -2465033449669202285
+    second: NEWSPRITESHEET_69
+  - first:
+      213: 4842048525034710954
+    second: NEWSPRITESHEET_70
+  - first:
+      213: 469987829376156329
+    second: NEWSPRITESHEET_71
+  - first:
+      213: 4325806818778022464
+    second: NEWSPRITESHEET_72
+  - first:
+      213: -342911772859963024
+    second: NEWSPRITESHEET_73
+  - first:
+      213: 6979682163402987984
+    second: NEWSPRITESHEET_74
+  - first:
+      213: 926543556531859355
+    second: NEWSPRITESHEET_75
+  - first:
+      213: -822820003746688769
+    second: NEWSPRITESHEET_76
+  - first:
+      213: 2322103178486852277
+    second: NEWSPRITESHEET_77
+  - first:
+      213: -4332257950101893647
+    second: NEWSPRITESHEET_78
+  - first:
+      213: -3984546633451018138
+    second: NEWSPRITESHEET_79
+  - first:
+      213: 4441452289770713055
+    second: NEWSPRITESHEET_80
+  - first:
+      213: -4532071579031121176
+    second: NEWSPRITESHEET_81
+  - first:
+      213: 3705612556742768435
+    second: NEWSPRITESHEET_82
+  - first:
+      213: -6049487895045629412
+    second: NEWSPRITESHEET_83
+  - first:
+      213: -8794431222979878504
+    second: NEWSPRITESHEET_84
+  - first:
+      213: 3477702256979601070
+    second: NEWSPRITESHEET_85
+  - first:
+      213: 7438217773415931542
+    second: NEWSPRITESHEET_86
+  - first:
+      213: 6882220605439590633
+    second: NEWSPRITESHEET_87
+  - first:
+      213: 3574392144458232707
+    second: NEWSPRITESHEET_88
+  - first:
+      213: -8950917682966429978
+    second: NEWSPRITESHEET_89
+  - first:
+      213: -8681668152696905753
+    second: NEWSPRITESHEET_90
+  - first:
+      213: 3760356811697299955
+    second: NEWSPRITESHEET_91
+  - first:
+      213: -699713351912498325
+    second: NEWSPRITESHEET_92
+  - first:
+      213: -5977438686673687290
+    second: NEWSPRITESHEET_93
+  - first:
+      213: -3746620172800879541
+    second: NEWSPRITESHEET_94
+  - first:
+      213: -4202571267039425259
+    second: NEWSPRITESHEET_95
+  - first:
+      213: -8685475144886174582
+    second: NEWSPRITESHEET_96
+  - first:
+      213: 1093017587320411724
+    second: NEWSPRITESHEET_97
+  - first:
+      213: 8663466652368015568
+    second: NEWSPRITESHEET_98
+  - first:
+      213: -8737310806317725282
+    second: NEWSPRITESHEET_99
+  - first:
+      213: -8087594917898009665
+    second: NEWSPRITESHEET_100
+  - first:
+      213: -7843570742730469191
+    second: NEWSPRITESHEET_101
+  - first:
+      213: -8719441876516032317
+    second: NEWSPRITESHEET_102
+  - first:
+      213: -8349458608349542867
+    second: NEWSPRITESHEET_103
+  - first:
+      213: 4450455430736890900
+    second: NEWSPRITESHEET_104
+  - first:
+      213: 7810831919278857971
+    second: NEWSPRITESHEET_105
+  - first:
+      213: 4888603399943549788
+    second: NEWSPRITESHEET_106
+  - first:
+      213: 6443400143652548059
+    second: NEWSPRITESHEET_107
+  - first:
+      213: -623789773659401812
+    second: NEWSPRITESHEET_108
+  - first:
+      213: -2567700055173258238
+    second: NEWSPRITESHEET_109
+  - first:
+      213: -38022332438132057
+    second: NEWSPRITESHEET_110
+  - first:
+      213: 6338080044390202769
+    second: NEWSPRITESHEET_111
+  - first:
+      213: 3102826913726122327
+    second: NEWSPRITESHEET_112
+  - first:
+      213: -5400949039368413071
+    second: NEWSPRITESHEET_113
+  - first:
+      213: 6202897322250499423
+    second: NEWSPRITESHEET_114
+  - first:
+      213: 1209196881034278259
+    second: NEWSPRITESHEET_115
+  - first:
+      213: -6319709151286657994
+    second: NEWSPRITESHEET_116
+  - first:
+      213: -3852192154899395744
+    second: NEWSPRITESHEET_117
+  - first:
+      213: 8261966086769262177
+    second: NEWSPRITESHEET_118
+  - first:
+      213: -4387449297378583832
+    second: NEWSPRITESHEET_119
+  - first:
+      213: -9074985101192616535
+    second: NEWSPRITESHEET_120
+  - first:
+      213: -2432674204093052133
+    second: NEWSPRITESHEET_121
+  - first:
+      213: -8899285511139543552
+    second: NEWSPRITESHEET_122
+  - first:
+      213: 8747745601482467148
+    second: NEWSPRITESHEET_123
+  - first:
+      213: 6749176825659247539
+    second: NEWSPRITESHEET_124
+  - first:
+      213: -2007550213096643253
+    second: NEWSPRITESHEET_125
+  - first:
+      213: -5309937706093659009
+    second: NEWSPRITESHEET_126
+  - first:
+      213: -3605105451622655114
+    second: NEWSPRITESHEET_127
+  - first:
+      213: 8018043021212634408
+    second: NEWSPRITESHEET_128
+  - first:
+      213: 3716038428268220328
+    second: NEWSPRITESHEET_129
+  - first:
+      213: -5249322362997100011
+    second: NEWSPRITESHEET_130
+  - first:
+      213: 6053539905184533928
+    second: NEWSPRITESHEET_131
+  - first:
+      213: -4297540725571047432
+    second: NEWSPRITESHEET_132
+  - first:
+      213: 8061963433324856418
+    second: NEWSPRITESHEET_133
+  - first:
+      213: 346451379162596570
+    second: NEWSPRITESHEET_134
+  - first:
+      213: 8804576208901417299
+    second: NEWSPRITESHEET_135
+  - first:
+      213: 7797506542489785059
+    second: NEWSPRITESHEET_136
+  - first:
+      213: 181797843649528009
+    second: NEWSPRITESHEET_137
+  - first:
+      213: 7687114252564810049
+    second: NEWSPRITESHEET_138
+  - first:
+      213: -3011547155252740176
+    second: NEWSPRITESHEET_139
+  - first:
+      213: -3322563610382574327
+    second: NEWSPRITESHEET_140
+  - first:
+      213: -3412889396672964381
+    second: NEWSPRITESHEET_141
+  - first:
+      213: -5540001811344763064
+    second: NEWSPRITESHEET_142
+  - first:
+      213: -3852337271619309104
+    second: NEWSPRITESHEET_143
+  - first:
+      213: -4730186688702006214
+    second: NEWSPRITESHEET_144
+  - first:
+      213: 1874314477638387029
+    second: NEWSPRITESHEET_145
+  - first:
+      213: -685463634103072148
+    second: NEWSPRITESHEET_146
+  - first:
+      213: -6344668104841638841
+    second: NEWSPRITESHEET_147
+  - first:
+      213: -1836359192464342498
+    second: NEWSPRITESHEET_148
+  - first:
+      213: -3236976730657284769
+    second: NEWSPRITESHEET_149
+  - first:
+      213: 4981422970636574800
+    second: NEWSPRITESHEET_150
+  - first:
+      213: 6227068818742041827
+    second: NEWSPRITESHEET_151
+  - first:
+      213: -6116738742747820646
+    second: NEWSPRITESHEET_152
+  - first:
+      213: 4126446021117742146
+    second: NEWSPRITESHEET_153
+  - first:
+      213: -1498836539653157185
+    second: NEWSPRITESHEET_154
+  - first:
+      213: -3020991665335867420
+    second: NEWSPRITESHEET_155
+  - first:
+      213: 5083705092582164417
+    second: NEWSPRITESHEET_156
+  - first:
+      213: -5886375056252129491
+    second: NEWSPRITESHEET_157
+  - first:
+      213: 1338444621154529994
+    second: NEWSPRITESHEET_158
+  - first:
+      213: -5666624740749352819
+    second: NEWSPRITESHEET_159
+  - first:
+      213: 6660424674822399589
+    second: NEWSPRITESHEET_160
+  - first:
+      213: 7719888305097834385
+    second: NEWSPRITESHEET_161
+  - first:
+      213: -8976382827262681736
+    second: NEWSPRITESHEET_162
+  - first:
+      213: 8160442027525218527
+    second: NEWSPRITESHEET_163
+  - first:
+      213: -6734353816933275980
+    second: NEWSPRITESHEET_164
+  - first:
+      213: 7963017034977060085
+    second: NEWSPRITESHEET_165
+  - first:
+      213: -7067820480349746520
+    second: NEWSPRITESHEET_166
+  - first:
+      213: 4098191046631619376
+    second: NEWSPRITESHEET_167
+  - first:
+      213: -7274178816422012798
+    second: NEWSPRITESHEET_168
+  - first:
+      213: -2841559566118805095
+    second: NEWSPRITESHEET_169
+  - first:
+      213: 1361295772246140641
+    second: NEWSPRITESHEET_170
+  - first:
+      213: -2908463031917504513
+    second: NEWSPRITESHEET_171
+  - first:
+      213: -3922645354065804729
+    second: NEWSPRITESHEET_172
+  - first:
+      213: -4929169512422419795
+    second: NEWSPRITESHEET_173
+  - first:
+      213: -6592656172132340293
+    second: NEWSPRITESHEET_174
+  - first:
+      213: -1057908265351718262
+    second: NEWSPRITESHEET_175
+  - first:
+      213: -3639889757937487262
+    second: NEWSPRITESHEET_176
+  - first:
+      213: -1705275218283561571
+    second: NEWSPRITESHEET_177
+  - first:
+      213: 543993636021593083
+    second: NEWSPRITESHEET_178
+  - first:
+      213: 5810772517896750966
+    second: NEWSPRITESHEET_179
+  - first:
+      213: 9046432535515922280
+    second: NEWSPRITESHEET_180
+  - first:
+      213: -2374134784837525271
+    second: NEWSPRITESHEET_181
+  - first:
+      213: -2817770288104044639
+    second: NEWSPRITESHEET_182
+  - first:
+      213: 3534466074698634218
+    second: NEWSPRITESHEET_183
+  - first:
+      213: -3370910143196214485
+    second: NEWSPRITESHEET_184
+  - first:
+      213: -2844708269635914790
+    second: NEWSPRITESHEET_185
+  - first:
+      213: -3017338743982240485
+    second: NEWSPRITESHEET_186
+  - first:
+      213: -3390830123200911365
+    second: NEWSPRITESHEET_187
+  - first:
+      213: 3232231384299998076
+    second: NEWSPRITESHEET_188
+  - first:
+      213: 541595871225825236
+    second: NEWSPRITESHEET_189
+  - first:
+      213: 6273769277171981835
+    second: NEWSPRITESHEET_190
+  - first:
+      213: -6510579802882789527
+    second: NEWSPRITESHEET_191
+  - first:
+      213: -882850435597247858
+    second: NEWSPRITESHEET_192
+  - first:
+      213: -4734277340717966428
+    second: NEWSPRITESHEET_193
+  - first:
+      213: 6237744589056446509
+    second: NEWSPRITESHEET_194
+  - first:
+      213: -3413920460736112721
+    second: NEWSPRITESHEET_195
+  - first:
+      213: -7610178781533778232
+    second: NEWSPRITESHEET_196
+  - first:
+      213: 7082075539281860079
+    second: NEWSPRITESHEET_197
+  - first:
+      213: -3426079032660834076
+    second: NEWSPRITESHEET_198
+  - first:
+      213: 4531764717706678251
+    second: NEWSPRITESHEET_199
+  - first:
+      213: 2942861472141110436
+    second: NEWSPRITESHEET_200
+  - first:
+      213: -7746696844256529753
+    second: NEWSPRITESHEET_201
+  - first:
+      213: -2192316582908779872
+    second: NEWSPRITESHEET_202
+  - first:
+      213: -6564776131385400520
+    second: NEWSPRITESHEET_203
+  - first:
+      213: 4859231761302093066
+    second: NEWSPRITESHEET_204
+  - first:
+      213: 9081290304545574806
+    second: NEWSPRITESHEET_205
+  - first:
+      213: 4547616480164916997
+    second: NEWSPRITESHEET_206
+  - first:
+      213: 96188420803148013
+    second: NEWSPRITESHEET_207
+  - first:
+      213: 2202416342047577670
+    second: NEWSPRITESHEET_208
+  - first:
+      213: -4831611157691139398
+    second: NEWSPRITESHEET_209
+  - first:
+      213: 4884249991807006907
+    second: NEWSPRITESHEET_210
+  - first:
+      213: 6774400319939053978
+    second: NEWSPRITESHEET_211
+  - first:
+      213: 4347745305640117140
+    second: NEWSPRITESHEET_212
+  - first:
+      213: -7848195057518631004
+    second: NEWSPRITESHEET_213
+  - first:
+      213: -8630338411098331764
+    second: NEWSPRITESHEET_214
+  - first:
+      213: 4779976727301394838
+    second: NEWSPRITESHEET_215
+  - first:
+      213: 6385687183062350967
+    second: NEWSPRITESHEET_216
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff5ae3ad20944240800000000000000
+      internalID: 4775100030617542648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a0cab176763da10800000000000000
+      internalID: 1933002357615626896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 336
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668c1ecb97fe6dab0800000000000000
+      internalID: -4983532631499880346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 336
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f043456fef6519df0800000000000000
+      internalID: -175263257436343281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 304
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc612e1fc7ebe390800000000000000
+      internalID: -7787876253857387323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 304
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0251309042a8c6a0800000000000000
+      internalID: -6428710069890625011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2962bbe35978d700800000000000000
+      internalID: 565335154578581805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 336
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de5d86670f9adf90800000000000000
+      internalID: -6928050222621958445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 336
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3b508693b281890800000000000000
+      internalID: -7487186854945115199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 336
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb3bebeee56ef1c0800000000000000
+      internalID: -4468021703470269461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 336
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af27ae10d0c5f3490800000000000000
+      internalID: -7764386021626973446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_11
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 336
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96e63e12b5318650800000000000000
+      internalID: 6233322398384842399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 336
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf9bfcdd61fc41e0800000000000000
+      internalID: -2212127862784548923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 320
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88690b37007edcc40800000000000000
+      internalID: 5534333506235176584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_14
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 336
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e27feb1e2b6778d0800000000000000
+      internalID: -2848690393507204381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 336
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3980e2275de7232e0800000000000000
+      internalID: -2147514617093551981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 336
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a1a23638e696cc0800000000000000
+      internalID: -3717318506834159006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_17
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 336
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbab1746ffb2b050800000000000000
+      internalID: 5814921133364587471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_18
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f58d41a5ae77880800000000000000
+      internalID: -8613158089705103613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_19
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 321
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd09079a1c608af0800000000000000
+      internalID: -396197905749701153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 320
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8a96ce638d15440800000000000000
+      internalID: 4922953598098843855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_21
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 320
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea56d200c29426a80800000000000000
+      internalID: -8475131095427488338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 320
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40a9fd1e904d9d30800000000000000
+      internalID: 4439775855509086282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_23
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 336
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2ed181458cd5f60800000000000000
+      internalID: 8024790374551511804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_24
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 336
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be394ee4c69e9da10800000000000000
+      internalID: 1934834166321681387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 336
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b8d8fbd145bbaf0800000000000000
+      internalID: -379617256838165646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_26
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 336
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05006e55c7f687d90800000000000000
+      internalID: -7099802232741822384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 160
+        width: 128
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15a6dfd93d7b7640800000000000000
+      internalID: 5078790692312360219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_28
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 160
+        width: 48
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668f6fe75471e56b0800000000000000
+      internalID: -5305777723745568666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_29
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 161
+        width: 96
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3240b0617cd1520800000000000000
+      internalID: 2674512651215971254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_30
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb2a4a9969210c0800000000000000
+      internalID: -4606453882210304907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f3a0ef2ff8c9fc0800000000000000
+      internalID: -3486753737684664472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_32
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0befe0f71217d0800000000000000
+      internalID: -2949268482389504813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 320
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dd8877a3f676e30800000000000000
+      internalID: 4496685049856974154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 320
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e28c202569c4c80800000000000000
+      internalID: -8337123531191472558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e1c6f28528f6d0800000000000000
+      internalID: -2956571910952852359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 320
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670c8239e33eb3350800000000000000
+      internalID: 5997637186670346358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 320
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89def5717d2d1240800000000000000
+      internalID: 4764013946162043278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_38
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 320
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b521e3cf7dc9270800000000000000
+      internalID: 8258713295063767892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 320
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2dcf0d2246400e0800000000000000
+      internalID: -2304607008608955707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 320
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d941dfebc81a15f60800000000000000
+      internalID: 8021370037195314333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 272
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547c7d1454c096b90800000000000000
+      internalID: -7248248633679165627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5305eb90c0f9180f0800000000000000
+      internalID: -1116436358559281099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 320
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec8033e8d06fa750800000000000000
+      internalID: 6318375286864907492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 320
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711ac9e0797d87460800000000000000
+      internalID: 7239773444783251735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_45
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 320
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187b1643ec6145410800000000000000
+      internalID: 1464820853700147073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 320
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70837478de20b9df0800000000000000
+      internalID: -172540941523535865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_47
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 320
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850d6f7ff37d08500800000000000000
+      internalID: 396553436951662680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_48
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 320
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da00e3c471798cce0800000000000000
+      internalID: -1384690759097253715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_49
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 320
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d77efdeb7c057140800000000000000
+      internalID: 4716689911153850329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_50
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 320
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0130afb53acd474e0800000000000000
+      internalID: -1984718941582654704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_51
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 256
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0ec02765306c3c0800000000000000
+      internalID: -4339777521109376853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 304
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb69bd42e8176f60800000000000000
+      internalID: 8027412221056871358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 304
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a3aa59dce738d10800000000000000
+      internalID: 2126682870493362766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_54
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 210
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5ffbbaf8cb3a140800000000000000
+      internalID: 4729831358916982244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59091cacf6c06b2c0800000000000000
+      internalID: -4416328710307606379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_56
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 304
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da26d1a2c849c250800000000000000
+      internalID: 5965379182204955347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_57
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 304
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b367dc349a0ae00800000000000000
+      internalID: 1054028421479676679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_58
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 304
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addae43e7265ae750800000000000000
+      internalID: 6334970555167321562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_59
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 304
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b3a0661d8ceefc0800000000000000
+      internalID: -3463610261715666172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_60
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 304
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf39f72e1c3ee2f0800000000000000
+      internalID: -941749171856523339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_61
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 304
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5632885961c27a0800000000000000
+      internalID: -6400716138910358096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 304
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b2e1db87b4f2f0800000000000000
+      internalID: -939924611063958013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_63
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 304
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d5bd9202aacd7a0800000000000000
+      internalID: -6351014319381324469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 304
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c5ced6f041956f0800000000000000
+      internalID: -695502610950759355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_65
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 304
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c26e30f2a4e65e0800000000000000
+      internalID: -1914511225796547428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_66
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 304
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a1d30043c9d2df0800000000000000
+      internalID: -203334661005567383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 289
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d647b62eecc057b00800000000000000
+      internalID: 825580189393843309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_68
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 289
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c0cb063302fb310800000000000000
+      internalID: 1422891412310723617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_69
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 304
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ee20943217acdd0800000000000000
+      internalID: -2465033449669202285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_70
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 304
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7e5efaa79623340800000000000000
+      internalID: 4842048525034710954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_71
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 304
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a209b2d07bb58600800000000000000
+      internalID: 469987829376156329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_72
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 304
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0420a30f16a580c30800000000000000
+      internalID: 4325806818778022464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_73
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 256
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e1653f8bbd3bf0800000000000000
+      internalID: -342911772859963024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9d3ca92ffccd060800000000000000
+      internalID: 6979682163402987984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_75
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f2204a47ebbdc00800000000000000
+      internalID: 926543556531859355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_76
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 288
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0d79ae091c494f0800000000000000
+      internalID: -822820003746688769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 288
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa38da984c93020800000000000000
+      internalID: 2322103178486852277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 288
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd80d0095ab0e3c0800000000000000
+      internalID: -4332257950101893647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_79
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 288
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6686c2aa2fb04b8c0800000000000000
+      internalID: -3984546633451018138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_80
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 288
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfe0a2635533ad30800000000000000
+      internalID: 4441452289770713055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_81
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2d43b29e8da11c0800000000000000
+      internalID: -4532071579031121176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_82
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 288
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33731e7bcfafc6330800000000000000
+      internalID: 3705612556742768435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_83
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 288
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a97ce9fc6eb0ca0800000000000000
+      internalID: -6049487895045629412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 288
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8912ea8c567e3f580800000000000000
+      internalID: -8794431222979878504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_85
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 288
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6e7dde6c7434030800000000000000
+      internalID: 3477702256979601070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_86
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 288
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e1472d7abd93760800000000000000
+      internalID: 7438217773415931542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_87
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 288
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0c9155d2f828f50800000000000000
+      internalID: 6882220605439590633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_88
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 288
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383316aa7baca9130800000000000000
+      internalID: 3574392144458232707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_89
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 288
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eef5059ac3f7c380800000000000000
+      internalID: -8950917682966429978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_90
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efdda400d4848780800000000000000
+      internalID: -8681668152696905753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_91
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 272
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f120f5d8987f2430800000000000000
+      internalID: 3760356811697299955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_92
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 272
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b58a6e96e1a46f0800000000000000
+      internalID: -699713351912498325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_93
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 272
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d232e2f2fdb0da0800000000000000
+      internalID: -5977438686673687290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_94
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 288
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4414e3adc4510cc0800000000000000
+      internalID: -3746620172800879541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_95
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 288
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d0ad4e2b77da5c0800000000000000
+      internalID: -4202571267039425259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_96
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 288
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c33939f5ef67780800000000000000
+      internalID: -8685475144886174582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_97
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 288
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46dc7164bd2b2f00800000000000000
+      internalID: 1093017587320411724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 272
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d096d1f401da3870800000000000000
+      internalID: 8663466652368015568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_99
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 272
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9900492d16deb680800000000000000
+      internalID: -8737310806317725282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_100
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 272
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb34f67a54713cf80800000000000000
+      internalID: -8087594917898009665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_101
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 197
+        width: 39
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b057ec67f9062390800000000000000
+      internalID: -7843570742730469191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_102
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 272
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0b8969fc15ef680800000000000000
+      internalID: -8719441876516032317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_103
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d268f7e02a3c02c80800000000000000
+      internalID: -8349458608349542867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_104
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cc7cd72a133cd30800000000000000
+      internalID: 4450455430736890900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 272
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe16ec3f36a56c60800000000000000
+      internalID: 7810831919278857971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_106
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 272
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53f66d24eec7d340800000000000000
+      internalID: 4888603399943549788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_107
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 272
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd6c14ca4e8b6950800000000000000
+      internalID: 6443400143652548059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_108
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 272
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1928e718ad757f0800000000000000
+      internalID: -623789773659401812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_109
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 272
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204a5a17762bd5cd0800000000000000
+      internalID: -2567700055173258238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_110
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 272
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa4e7dd3eae87ff0800000000000000
+      internalID: -38022332438132057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_111
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 249
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dbed3483265f750800000000000000
+      internalID: 6338080044390202769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_112
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759ca2873a47f0b20800000000000000
+      internalID: 3102826913726122327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_113
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 272
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1706572d679fb05b0800000000000000
+      internalID: -5400949039368413071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_114
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 257
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5576fe004e151650800000000000000
+      internalID: 6202897322250499423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_115
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 257
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375fe8d182ee7c010800000000000000
+      internalID: 1209196881034278259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_116
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 272
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cf5c99202eb48a0800000000000000
+      internalID: -6319709151286657994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_117
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 272
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bcca815a34a8ac0800000000000000
+      internalID: -3852192154899395744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_118
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 272
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eb434d16668a270800000000000000
+      internalID: 8261966086769262177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_119
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 272
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea56b71c16ac13c0800000000000000
+      internalID: -4387449297378583832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 32
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5a37db12d2f0280800000000000000
+      internalID: -9074985101192616535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_121
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 181
+        width: 16
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b07c243b76d3ed0800000000000000
+      internalID: -2432674204093052133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 128
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0063fb16af26f7480800000000000000
+      internalID: -8899285511139543552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_123
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 256
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4729d9e64c366970800000000000000
+      internalID: 8747745601482467148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_124
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 160
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbc7b37094e9ad50800000000000000
+      internalID: 6749176825659247539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_125
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 96
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b456d97b7bfb324e0800000000000000
+      internalID: -2007550213096643253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_126
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 256
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cb5d02acf4f46b0800000000000000
+      internalID: -5309937706093659009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_127
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 256
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b153241b718fdc0800000000000000
+      internalID: -3605105451622655114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_128
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 240
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dcd2975afc54f60800000000000000
+      internalID: 8018043021212634408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_129
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 217
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afc0a81345029330800000000000000
+      internalID: 3716038428268220328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_130
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 208
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5123b0a7f19a627b0800000000000000
+      internalID: -5249322362997100011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_131
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad0d22887e720450800000000000000
+      internalID: 6053539905184533928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_132
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 181
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff209cba711c54c0800000000000000
+      internalID: -4297540725571047432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_133
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 197
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264448b4709d1ef60800000000000000
+      internalID: 8061963433324856418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_134
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 210
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad44eea91b7dec400800000000000000
+      internalID: 346451379162596570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_135
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 181
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ac61d963203a70800000000000000
+      internalID: 8804576208901417299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_136
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 224
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e253ee23ee463c60800000000000000
+      internalID: 7797506542489785059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_137
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 208
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c089a3fc20e58200800000000000000
+      internalID: 181797843649528009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_138
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 160
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149c7f34fad1eaa60800000000000000
+      internalID: 7687114252564810049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf72d271d5d436d0800000000000000
+      internalID: -3011547155252740176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_140
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 144
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd1830002e3e1d0800000000000000
+      internalID: -3322563610382574327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_141
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 144
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e85c9d0d2bf2a0d0800000000000000
+      internalID: -3412889396672964381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_142
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 144
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84756cb64b5fd13b0800000000000000
+      internalID: -5540001811344763064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_143
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 144
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1322a79afb98ac0800000000000000
+      internalID: -3852337271619309104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_144
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 160
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb2aaa4400b5eb0800000000000000
+      internalID: -4730186688702006214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_145
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555020d3617e20a10800000000000000
+      internalID: 1874314477638387029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_146
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 160
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a86ded47ebc76f0800000000000000
+      internalID: -685463634103072148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_147
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 160
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cc92169f533f7a0800000000000000
+      internalID: -6344668104841638841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_148
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 160
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12c32d3b01f386e0800000000000000
+      internalID: -1836359192464342498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_149
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 160
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d97fe40d2f313d0800000000000000
+      internalID: -3236976730657284769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_150
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 161
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050a3c09cc1912540800000000000000
+      internalID: 4981422970636574800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_151
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecd705291efa6650800000000000000
+      internalID: 6227068818742041827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_152
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 112
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d85a6758afc1ba0800000000000000
+      internalID: -6116738742747820646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_153
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 112
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c0c891bc4144930800000000000000
+      internalID: 4126446021117742146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_154
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe099dbb10133be0800000000000000
+      internalID: -1498836539653157185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_155
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e76d3616184316d0800000000000000
+      internalID: -3020991665335867420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_156
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7443ad8d2fc8640800000000000000
+      internalID: 5083705092582164417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_157
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f2f5dd2156f4ea0800000000000000
+      internalID: -5886375056252129491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_158
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 128
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2b273aa4c139210800000000000000
+      internalID: 1338444621154529994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_159
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 128
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e13442da1c51b0800000000000000
+      internalID: -5666624740749352819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_160
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 128
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566290c04f49e6c50800000000000000
+      internalID: 6660424674822399589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_161
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 85
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f7c03038d822b60800000000000000
+      internalID: 7719888305097834385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_162
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 85
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d5715a06b7d6380800000000000000
+      internalID: -8976382827262681736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_163
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 128
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd02fc4c9c6bf3170800000000000000
+      internalID: 8160442027525218527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_164
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 128
+        width: 128
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b665e532e4ca82a0800000000000000
+      internalID: -6734353816933275980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_165
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 80
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4213eadc1528e60800000000000000
+      internalID: 7963017034977060085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_166
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 80
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aac58458be0aed90800000000000000
+      internalID: -7067820480349746520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_167
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 32
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bf9243b03bfd830800000000000000
+      internalID: 4098191046631619376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_168
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 80
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2889e7e18ecec0b90800000000000000
+      internalID: -7274178816422012798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_169
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 80
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991206d31a0c098d0800000000000000
+      internalID: -2841559566118805095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_170
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6e8fada4b44e210800000000000000
+      internalID: 1361295772246140641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_171
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 96
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7933c384013a7d0800000000000000
+      internalID: -2908463031917504513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_172
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 96
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742421365d6ff89c0800000000000000
+      internalID: -3922645354065804729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_173
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 96
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2506eb172189bb0800000000000000
+      internalID: -4929169512422419795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_174
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 96
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbde3cd042e2284a0800000000000000
+      internalID: -6592656172132340293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_175
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 83
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ad2c6a90e8151f0800000000000000
+      internalID: -1057908265351718262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_176
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262bd84dc838c7dc0800000000000000
+      internalID: -3639889757937487262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_177
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d7ee15935a558e0800000000000000
+      internalID: -1705275218283561571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_178
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 80
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3e32b6457ac8700800000000000000
+      internalID: 543993636021593083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_179
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67786d771d204a050800000000000000
+      internalID: 5810772517896750966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_180
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 66
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f76f306726b8d70800000000000000
+      internalID: 9046432535515922280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_181
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e06cdcedf06d0fd0800000000000000
+      internalID: -2374134784837525271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_182
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 64
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a788e62ad445e8d0800000000000000
+      internalID: -2817770288104044639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_183
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3d4152b22fc0130800000000000000
+      internalID: 3534466074698634218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_184
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b4709a51f1831d0800000000000000
+      internalID: -3370910143196214485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_185
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad33cb296e09588d0800000000000000
+      internalID: -2844708269635914790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_186
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d4aed16624026d0800000000000000
+      internalID: -3017338743982240485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_187
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf76ae4e7f951f0d0800000000000000
+      internalID: -3390830123200911365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_188
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b0215a1513bdc20800000000000000
+      internalID: 3232231384299998076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_189
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 48
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7cb3c4392248700800000000000000
+      internalID: 541595871225825236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_190
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 48
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5890fae7e01750800000000000000
+      internalID: 6273769277171981835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_191
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 48
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fa65fe926c5a5a0800000000000000
+      internalID: -6510579802882789527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_192
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 70
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a5d64d43c7fb3f0800000000000000
+      internalID: -882850435597247858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_193
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 48
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab135687d77c4eb0800000000000000
+      internalID: -4734277340717966428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_194
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 48
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20135e97abe09650800000000000000
+      internalID: 6237744589056446509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 160
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7d26ebd615f90d0800000000000000
+      internalID: -3413920460736112721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_196
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 35
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cec679f7b6336690800000000000000
+      internalID: -7610178781533778232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_197
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 35
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5d0673e26984260800000000000000
+      internalID: 7082075539281860079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_198
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 35
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e846dd954f1470d0800000000000000
+      internalID: -3426079032660834076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_199
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 32
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef0e8c100014ee30800000000000000
+      internalID: 4531764717706678251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_200
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 48
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac672ebae427d820800000000000000
+      internalID: 2942861472141110436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_201
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 54
+        width: 48
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2337f83443e7490800000000000000
+      internalID: -7746696844256529753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a22688eea35391e0800000000000000
+      internalID: -2192316582908779872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8336fc2e3ea35e4a0800000000000000
+      internalID: -6564776131385400520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_204
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 63
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df4b5aa857f6340800000000000000
+      internalID: 4859231761302093066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_205
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f43a0da69370e70800000000000000
+      internalID: 9081290304545574806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_206
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f21fa28116c1f30800000000000000
+      internalID: 4547616480164916997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_207
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de83a7debdab55100800000000000000
+      internalID: 96188420803148013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_208
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 16
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646d2438efd809e10800000000000000
+      internalID: 2202416342047577670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_209
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 16
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba7105404ba2fcb0800000000000000
+      internalID: -4831611157691139398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_210
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 16
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb87cdb5d7758c340800000000000000
+      internalID: 4884249991807006907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_211
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 16
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99824cd231830e50800000000000000
+      internalID: 6774400319939053978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_212
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 16
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4932d84f15b465c30800000000000000
+      internalID: 4347745305640117140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_213
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 16
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a720ac3d2c951390800000000000000
+      internalID: -7848195057518631004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_214
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 16
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85231bc0f0ea3880800000000000000
+      internalID: -8630338411098331764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_215
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 16
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911f611283e55240800000000000000
+      internalID: 4779976727301394838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEWSPRITESHEET_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c323109a48e9850800000000000000
+      internalID: 6385687183062350967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0471af075da3fe4cb287e76450d4187
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      NEWSPRITESHEET_0: 4775100030617542648
+      NEWSPRITESHEET_1: 1933002357615626896
+      NEWSPRITESHEET_10: -7764386021626973446
+      NEWSPRITESHEET_100: -8087594917898009665
+      NEWSPRITESHEET_101: -7843570742730469191
+      NEWSPRITESHEET_102: -8719441876516032317
+      NEWSPRITESHEET_103: -8349458608349542867
+      NEWSPRITESHEET_104: 4450455430736890900
+      NEWSPRITESHEET_105: 7810831919278857971
+      NEWSPRITESHEET_106: 4888603399943549788
+      NEWSPRITESHEET_107: 6443400143652548059
+      NEWSPRITESHEET_108: -623789773659401812
+      NEWSPRITESHEET_109: -2567700055173258238
+      NEWSPRITESHEET_11: 6233322398384842399
+      NEWSPRITESHEET_110: -38022332438132057
+      NEWSPRITESHEET_111: 6338080044390202769
+      NEWSPRITESHEET_112: 3102826913726122327
+      NEWSPRITESHEET_113: -5400949039368413071
+      NEWSPRITESHEET_114: 6202897322250499423
+      NEWSPRITESHEET_115: 1209196881034278259
+      NEWSPRITESHEET_116: -6319709151286657994
+      NEWSPRITESHEET_117: -3852192154899395744
+      NEWSPRITESHEET_118: 8261966086769262177
+      NEWSPRITESHEET_119: -4387449297378583832
+      NEWSPRITESHEET_12: -2212127862784548923
+      NEWSPRITESHEET_120: -9074985101192616535
+      NEWSPRITESHEET_121: -2432674204093052133
+      NEWSPRITESHEET_122: -8899285511139543552
+      NEWSPRITESHEET_123: 8747745601482467148
+      NEWSPRITESHEET_124: 6749176825659247539
+      NEWSPRITESHEET_125: -2007550213096643253
+      NEWSPRITESHEET_126: -5309937706093659009
+      NEWSPRITESHEET_127: -3605105451622655114
+      NEWSPRITESHEET_128: 8018043021212634408
+      NEWSPRITESHEET_129: 3716038428268220328
+      NEWSPRITESHEET_13: 5534333506235176584
+      NEWSPRITESHEET_130: -5249322362997100011
+      NEWSPRITESHEET_131: 6053539905184533928
+      NEWSPRITESHEET_132: -4297540725571047432
+      NEWSPRITESHEET_133: 8061963433324856418
+      NEWSPRITESHEET_134: 346451379162596570
+      NEWSPRITESHEET_135: 8804576208901417299
+      NEWSPRITESHEET_136: 7797506542489785059
+      NEWSPRITESHEET_137: 181797843649528009
+      NEWSPRITESHEET_138: 7687114252564810049
+      NEWSPRITESHEET_139: -3011547155252740176
+      NEWSPRITESHEET_14: -2848690393507204381
+      NEWSPRITESHEET_140: -3322563610382574327
+      NEWSPRITESHEET_141: -3412889396672964381
+      NEWSPRITESHEET_142: -5540001811344763064
+      NEWSPRITESHEET_143: -3852337271619309104
+      NEWSPRITESHEET_144: -4730186688702006214
+      NEWSPRITESHEET_145: 1874314477638387029
+      NEWSPRITESHEET_146: -685463634103072148
+      NEWSPRITESHEET_147: -6344668104841638841
+      NEWSPRITESHEET_148: -1836359192464342498
+      NEWSPRITESHEET_149: -3236976730657284769
+      NEWSPRITESHEET_15: -2147514617093551981
+      NEWSPRITESHEET_150: 4981422970636574800
+      NEWSPRITESHEET_151: 6227068818742041827
+      NEWSPRITESHEET_152: -6116738742747820646
+      NEWSPRITESHEET_153: 4126446021117742146
+      NEWSPRITESHEET_154: -1498836539653157185
+      NEWSPRITESHEET_155: -3020991665335867420
+      NEWSPRITESHEET_156: 5083705092582164417
+      NEWSPRITESHEET_157: -5886375056252129491
+      NEWSPRITESHEET_158: 1338444621154529994
+      NEWSPRITESHEET_159: -5666624740749352819
+      NEWSPRITESHEET_16: -3717318506834159006
+      NEWSPRITESHEET_160: 6660424674822399589
+      NEWSPRITESHEET_161: 7719888305097834385
+      NEWSPRITESHEET_162: -8976382827262681736
+      NEWSPRITESHEET_163: 8160442027525218527
+      NEWSPRITESHEET_164: -6734353816933275980
+      NEWSPRITESHEET_165: 7963017034977060085
+      NEWSPRITESHEET_166: -7067820480349746520
+      NEWSPRITESHEET_167: 4098191046631619376
+      NEWSPRITESHEET_168: -7274178816422012798
+      NEWSPRITESHEET_169: -2841559566118805095
+      NEWSPRITESHEET_17: 5814921133364587471
+      NEWSPRITESHEET_170: 1361295772246140641
+      NEWSPRITESHEET_171: -2908463031917504513
+      NEWSPRITESHEET_172: -3922645354065804729
+      NEWSPRITESHEET_173: -4929169512422419795
+      NEWSPRITESHEET_174: -6592656172132340293
+      NEWSPRITESHEET_175: -1057908265351718262
+      NEWSPRITESHEET_176: -3639889757937487262
+      NEWSPRITESHEET_177: -1705275218283561571
+      NEWSPRITESHEET_178: 543993636021593083
+      NEWSPRITESHEET_179: 5810772517896750966
+      NEWSPRITESHEET_18: -8613158089705103613
+      NEWSPRITESHEET_180: 9046432535515922280
+      NEWSPRITESHEET_181: -2374134784837525271
+      NEWSPRITESHEET_182: -2817770288104044639
+      NEWSPRITESHEET_183: 3534466074698634218
+      NEWSPRITESHEET_184: -3370910143196214485
+      NEWSPRITESHEET_185: -2844708269635914790
+      NEWSPRITESHEET_186: -3017338743982240485
+      NEWSPRITESHEET_187: -3390830123200911365
+      NEWSPRITESHEET_188: 3232231384299998076
+      NEWSPRITESHEET_189: 541595871225825236
+      NEWSPRITESHEET_19: -396197905749701153
+      NEWSPRITESHEET_190: 6273769277171981835
+      NEWSPRITESHEET_191: -6510579802882789527
+      NEWSPRITESHEET_192: -882850435597247858
+      NEWSPRITESHEET_193: -4734277340717966428
+      NEWSPRITESHEET_194: 6237744589056446509
+      NEWSPRITESHEET_195: -3413920460736112721
+      NEWSPRITESHEET_196: -7610178781533778232
+      NEWSPRITESHEET_197: 7082075539281860079
+      NEWSPRITESHEET_198: -3426079032660834076
+      NEWSPRITESHEET_199: 4531764717706678251
+      NEWSPRITESHEET_2: -4983532631499880346
+      NEWSPRITESHEET_20: 4922953598098843855
+      NEWSPRITESHEET_200: 2942861472141110436
+      NEWSPRITESHEET_201: -7746696844256529753
+      NEWSPRITESHEET_202: -2192316582908779872
+      NEWSPRITESHEET_203: -6564776131385400520
+      NEWSPRITESHEET_204: 4859231761302093066
+      NEWSPRITESHEET_205: 9081290304545574806
+      NEWSPRITESHEET_206: 4547616480164916997
+      NEWSPRITESHEET_207: 96188420803148013
+      NEWSPRITESHEET_208: 2202416342047577670
+      NEWSPRITESHEET_209: -4831611157691139398
+      NEWSPRITESHEET_21: -8475131095427488338
+      NEWSPRITESHEET_210: 4884249991807006907
+      NEWSPRITESHEET_211: 6774400319939053978
+      NEWSPRITESHEET_212: 4347745305640117140
+      NEWSPRITESHEET_213: -7848195057518631004
+      NEWSPRITESHEET_214: -8630338411098331764
+      NEWSPRITESHEET_215: 4779976727301394838
+      NEWSPRITESHEET_216: 6385687183062350967
+      NEWSPRITESHEET_22: 4439775855509086282
+      NEWSPRITESHEET_23: 8024790374551511804
+      NEWSPRITESHEET_24: 1934834166321681387
+      NEWSPRITESHEET_25: -379617256838165646
+      NEWSPRITESHEET_26: -7099802232741822384
+      NEWSPRITESHEET_27: 5078790692312360219
+      NEWSPRITESHEET_28: -5305777723745568666
+      NEWSPRITESHEET_29: 2674512651215971254
+      NEWSPRITESHEET_3: -175263257436343281
+      NEWSPRITESHEET_30: -4606453882210304907
+      NEWSPRITESHEET_31: -3486753737684664472
+      NEWSPRITESHEET_32: -2949268482389504813
+      NEWSPRITESHEET_33: 4496685049856974154
+      NEWSPRITESHEET_34: -8337123531191472558
+      NEWSPRITESHEET_35: -2956571910952852359
+      NEWSPRITESHEET_36: 5997637186670346358
+      NEWSPRITESHEET_37: 4764013946162043278
+      NEWSPRITESHEET_38: 8258713295063767892
+      NEWSPRITESHEET_39: -2304607008608955707
+      NEWSPRITESHEET_4: -7787876253857387323
+      NEWSPRITESHEET_40: 8021370037195314333
+      NEWSPRITESHEET_41: -7248248633679165627
+      NEWSPRITESHEET_42: -1116436358559281099
+      NEWSPRITESHEET_43: 6318375286864907492
+      NEWSPRITESHEET_44: 7239773444783251735
+      NEWSPRITESHEET_45: 1464820853700147073
+      NEWSPRITESHEET_46: -172540941523535865
+      NEWSPRITESHEET_47: 396553436951662680
+      NEWSPRITESHEET_48: -1384690759097253715
+      NEWSPRITESHEET_49: 4716689911153850329
+      NEWSPRITESHEET_5: -6428710069890625011
+      NEWSPRITESHEET_50: -1984718941582654704
+      NEWSPRITESHEET_51: -4339777521109376853
+      NEWSPRITESHEET_52: 8027412221056871358
+      NEWSPRITESHEET_53: 2126682870493362766
+      NEWSPRITESHEET_54: 4729831358916982244
+      NEWSPRITESHEET_55: -4416328710307606379
+      NEWSPRITESHEET_56: 5965379182204955347
+      NEWSPRITESHEET_57: 1054028421479676679
+      NEWSPRITESHEET_58: 6334970555167321562
+      NEWSPRITESHEET_59: -3463610261715666172
+      NEWSPRITESHEET_6: 565335154578581805
+      NEWSPRITESHEET_60: -941749171856523339
+      NEWSPRITESHEET_61: -6400716138910358096
+      NEWSPRITESHEET_62: -939924611063958013
+      NEWSPRITESHEET_63: -6351014319381324469
+      NEWSPRITESHEET_64: -695502610950759355
+      NEWSPRITESHEET_65: -1914511225796547428
+      NEWSPRITESHEET_66: -203334661005567383
+      NEWSPRITESHEET_67: 825580189393843309
+      NEWSPRITESHEET_68: 1422891412310723617
+      NEWSPRITESHEET_69: -2465033449669202285
+      NEWSPRITESHEET_7: -6928050222621958445
+      NEWSPRITESHEET_70: 4842048525034710954
+      NEWSPRITESHEET_71: 469987829376156329
+      NEWSPRITESHEET_72: 4325806818778022464
+      NEWSPRITESHEET_73: -342911772859963024
+      NEWSPRITESHEET_74: 6979682163402987984
+      NEWSPRITESHEET_75: 926543556531859355
+      NEWSPRITESHEET_76: -822820003746688769
+      NEWSPRITESHEET_77: 2322103178486852277
+      NEWSPRITESHEET_78: -4332257950101893647
+      NEWSPRITESHEET_79: -3984546633451018138
+      NEWSPRITESHEET_8: -7487186854945115199
+      NEWSPRITESHEET_80: 4441452289770713055
+      NEWSPRITESHEET_81: -4532071579031121176
+      NEWSPRITESHEET_82: 3705612556742768435
+      NEWSPRITESHEET_83: -6049487895045629412
+      NEWSPRITESHEET_84: -8794431222979878504
+      NEWSPRITESHEET_85: 3477702256979601070
+      NEWSPRITESHEET_86: 7438217773415931542
+      NEWSPRITESHEET_87: 6882220605439590633
+      NEWSPRITESHEET_88: 3574392144458232707
+      NEWSPRITESHEET_89: -8950917682966429978
+      NEWSPRITESHEET_9: -4468021703470269461
+      NEWSPRITESHEET_90: -8681668152696905753
+      NEWSPRITESHEET_91: 3760356811697299955
+      NEWSPRITESHEET_92: -699713351912498325
+      NEWSPRITESHEET_93: -5977438686673687290
+      NEWSPRITESHEET_94: -3746620172800879541
+      NEWSPRITESHEET_95: -4202571267039425259
+      NEWSPRITESHEET_96: -8685475144886174582
+      NEWSPRITESHEET_97: 1093017587320411724
+      NEWSPRITESHEET_98: 8663466652368015568
+      NEWSPRITESHEET_99: -8737310806317725282
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
