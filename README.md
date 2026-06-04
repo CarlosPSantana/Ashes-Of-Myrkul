@@ -18,13 +18,13 @@ The game features exploration, combat mechanics, progression systems and a dark 
 ![Combat](docs/images/combat.png)
 
 ### Dialogue System
-![Dialogue](docs/images/dialogue-system.png)
+![Dialogue](docs/images/dialogue.png)
 
 ### Inventory System
 ![Inventory](docs/images/inventory.png)
 
 ### Quest System
-![Quest](docs/images/quest-system.png)
+![Quest](docs/images/quest.png)
 
 
 ## ✨ Features
