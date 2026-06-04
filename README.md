@@ -26,6 +26,9 @@ The game features exploration, combat mechanics, progression systems and a dark 
 ### Quest System
 ![Quest](docs/images/quest-progress.png)
 
+### Boss Fight
+![Boss](docs/images/boss.png)
+
 
 ## ✨ Features
 
