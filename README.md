@@ -24,7 +24,7 @@ The game features exploration, combat mechanics, progression systems and a dark 
 ![Inventory](docs/images/inventory.png)
 
 ### Quest System
-![Quest](docs/images/quest.png)
+![Quest](docs/images/quest-progress.png)
 
 
 ## ✨ Features
