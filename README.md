@@ -36,13 +36,13 @@ The game features exploration, combat mechanics, progression systems and a dark 
 ## 🧩 Main Systems
 
 ### Player System
-Player movement, jumping, combat interactions and character progression.
+Player movement, jumping and combat interactions.
 
 ### Save System
 Persistent game data management allowing players to continue their progress.
 
 ### Quest System
-Mission system with objectives, NPC interactions and progress tracking.
+Mission system with objectives, NPC interactions, NPC dialogue progress and progress tracking.
 
 ### Inventory System
 Item collection and management system integrated with gameplay mechanics.
